@@ -38,10 +38,6 @@
 
 ###
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=LeoV0.LeoV0&"  />
-
-###
-
 <br clear="both">
 
 ###
