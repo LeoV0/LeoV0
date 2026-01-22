@@ -1,5 +1,4 @@
 <h2 align="left">Hey ! My name is Léo and I'm a Front-End Developper from France</h2>
-<p align="left">En recherche d’alternance à partir du 29/09 pour une durée de 12 mois en contrat d’apprentissage (4j en entreprise, 1j à l’école)</p>
 
 ###
 
